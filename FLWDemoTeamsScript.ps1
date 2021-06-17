@@ -1,6 +1,3 @@
-﻿#Set domain name, e.g. contoso.onmicrosoft.com"
-$initialDomain = “<your_domain_name>”
-
 #Login as Global Administrator
 Connect-AzureAD
 Connect-MicrosoftTeams
